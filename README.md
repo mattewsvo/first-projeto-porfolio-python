@@ -1,4 +1,4 @@
-# first-porfolio-python
+# first-project-porfolio-python
 Este é o meu primeiro repositório, gostaria de expor minha evolução acadêmica aqui e posteriormente usar esse repositório como um portifólio.
 
 Todos nós temos um momento start, porém nem sempre (e quase nunca será) grandioso, mas serve como base para mudarmos nossa atual posição.
