@@ -1,4 +1,4 @@
-# first-project-porfolio-python
+#projeto-cadastro-produtos&database
 Documentação do projeto "first-projeto-portifolio-python".
 O projeto consiste em um sistema que integra dados inseridos pelo usuário a um banco de dados. O usuário consegue cadastrar um produto (com campos como descrição do produto, unidade de medida e quantidade) e também visualizar quais cadastros ja foram feitos no banco de dados. 
 Todo o processo está comentado para facilitar o entendimento de cada linha de código.
